@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "134647",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "880414",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "5405556",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    }
+  ]
+}
